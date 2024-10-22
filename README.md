@@ -59,7 +59,7 @@ o	Use the provided code snippets as a starting point and modify them according t
 
 ![lambda_function](https://github.com/user-attachments/assets/b07fc79c-81dc-488f-95c2-7dd2148c4a83)
 
-4.	**Create IAM role for allow configuration for lambda to interact with Dynamo DB:**
+4.	**Create IAM role for allow configuration for lambda to interact with Dynamo DB:** \
 o Attach policy DynamoDb Access to the role.
 
 
